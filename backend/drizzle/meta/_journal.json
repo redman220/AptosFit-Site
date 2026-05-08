@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1777497591183,
+      "tag": "20260429211951_far_natasha_romanoff",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1777499400941,
+      "tag": "20260429215000_small_stick",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1777504179079,
+      "tag": "20260429230939_right_guardsmen",
+      "breakpoints": true
+    }
+  ]
+}
