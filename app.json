@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FitPulse",
-    "slug": "fitpulse",
+    "name": "AptosFit",
+    "slug": "aptosfit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/app-icon-mpo.png",
@@ -35,7 +35,7 @@
       "expo-web-browser",
       "expo-secure-store"
     ],
-    "scheme": "fitpulse",
+    "scheme": "aptosfit",
     "experiments": {
       "typedRoutes": true
     },
