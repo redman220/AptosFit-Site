@@ -3,7 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
+      - aptosfit-web-app
   workflow_dispatch:
 
 permissions:
